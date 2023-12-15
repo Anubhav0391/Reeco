@@ -1,0 +1,56 @@
+{
+  "orders": [
+    {
+      "id": "6253A2B",
+      "supplier": "East coast fruits & vegetables",
+      "shipDay": "Thu",
+      "shipMonth": "Dec",
+      "shipDate": "20",
+      "shipYear": "2023",
+      "dep": "300-444-678",
+      "status": false,
+      "products": [
+        {
+          "id": 1,
+          "name": "Chicken Breast Fillets",
+          "brand": "Hormel",
+          "price": 60.67,
+          "qty": 1,
+          "status": ""
+        },
+        {
+          "id": 2,
+          "name": "Fresh Spinach",
+          "brand": "Organic Farms",
+          "price": 3.99,
+          "qty": 3,
+          "status": ""
+        },
+        {
+          "id": 3,
+          "name": "Whole Grain Bread",
+          "brand": "Nature's Best",
+          "price": 5.49,
+          "qty": 2,
+          "status": ""
+        },
+        {
+          "id": 4,
+          "name": "Greek Yogurt",
+          "brand": "Chobani",
+          "price": 4.25,
+          "qty": 4,
+          "status": ""
+        },
+        {
+          "id": 5,
+          "name": "Salmon Fillets",
+          "brand": "Wild Catch",
+          "price": 12.99,
+          "qty": 2,
+          "status": ""
+        }
+      ]
+    }
+  ]
+}
