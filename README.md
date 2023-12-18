@@ -14,7 +14,7 @@
 
 ## Used Tech Stack :
 
-`React` , `Redux` , `ChakraUI` , `React Icons` 
+`React` , `Redux` , `Redux Thunk` , `ChakraUI` , `React Icons` 
 
 ## To Run Locally:
 
