@@ -10,7 +10,7 @@
 
 ## Developers:
 
- `Anubhav Dixit` : 
+ `Anubhav Dixit` 
 
 ## Used Tech Stack :
 
