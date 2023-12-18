@@ -14,6 +14,10 @@
 
 ## Used Tech Stack :
 
+```
+react
+```
+
 `React` , `Redux` , `ChakraUI` , `React Icons` 
 
 ## To Run Locally:
