@@ -26,18 +26,9 @@
 
 ## Pages:
 
-### Home 
-<img src="https://i.ibb.co/xYMC19V/Screenshot-36.png"/>
+### Before Updates
+<img src="https://i.ibb.co/c3mWB9V/Screenshot-52.png"/>
 
-### Create Invoice
-<img src="https://i.ibb.co/XZfMhCB/Screenshot-37.png"/>
-
-### Invoice List
-<img src="https://i.ibb.co/12ZgmX9/Screenshot-39.png"/>
-
-### Invoice List (on clicking `Bulk Edit`) 
-<img src="https://i.ibb.co/HCjZmJf/Screenshot-40.png"/>
-
-### Bulk Edit (excel like editable interface)
-<img src="https://i.ibb.co/HTmt1NW/Screenshot-41.png"/>
+### After Updates
+<img src="https://i.ibb.co/KNdCr3j/Screenshot-53.png"/>
 
