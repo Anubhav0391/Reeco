@@ -18,7 +18,7 @@
 
 ## To Run Locally:
 
-1. Clone the repository : ```git clone https://github.com/Anubhav0391/Reeco```
+1. Clone the repository : ``git clone https://github.com/Anubhav0391/Reeco``
 2. Open it in your code editor like VS Code Editer
 3. Go to root folder `cd reeco`
 4. Install the dependencies : `npm install`
