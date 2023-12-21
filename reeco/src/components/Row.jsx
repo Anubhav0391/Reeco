@@ -82,8 +82,8 @@ export const Row = ({
       : 11;
 
   function approveFn(id, status) {
-    let curDate=date.getDate()+""+date.getMonth()+date.getFullYear();
-    let shipDate=day+''+month+year;
+    let curDate=date.getFullYear()+""+date.getMonth()+date.getDate();
+    let shipDate=year+''+month+day;
     if (
       curDate<shipDate &&
       !orderStatus
@@ -105,8 +105,8 @@ export const Row = ({
   }
 
   function editFn(id) {
-    let curDate=date.getDate()+""+date.getMonth()+date.getFullYear();
-    let shipDate=day+''+month+year;
+    let curDate=date.getFullYear()+""+date.getMonth()+date.getDate();
+    let shipDate=year+''+month+day;
     if (
       curDate<shipDate &&
       !orderStatus
