@@ -82,10 +82,10 @@ export const Row = ({
       : 11;
 
   function approveFn(id, status) {
+    let curDate=date.getDate()+""+date.getMonth()+date.getFullYear();
+    let shipDate=day+''+month+year;
     if (
-      date.getDay() < day &&
-      date.getFullYear() <= year &&
-      date.getMonth() <= month &&
+      curDate<shipDate &&
       !orderStatus
     ) {
       let updated = data[0]?.products.map((el) => {
@@ -105,10 +105,10 @@ export const Row = ({
   }
 
   function editFn(id) {
+    let curDate=date.getDate()+""+date.getMonth()+date.getFullYear();
+    let shipDate=day+''+month+year;
     if (
-      date.getDay() < day &&
-      date.getFullYear() <= year &&
-      date.getMonth() <= month &&
+      curDate<shipDate &&
       !orderStatus
     ) {
       let updated = data[0]?.products.map((el) => {
